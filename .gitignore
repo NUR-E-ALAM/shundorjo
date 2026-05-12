@@ -6,8 +6,11 @@
 /public/sliders
 /public/page-cache
 /public/master
+/public/img
+/public/images
+/public/invoice
 /public/invoices
-/public/frontend/images
+/public/frontend
 /public/logs
 /storage/*.key
 /storage
