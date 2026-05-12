@@ -1,0 +1,7 @@
+SCHEDULE after date insert automatical DELETE
+
+SET GLOBAL event_scheduler = ON;
+
+CREATE EVENT IF NOT EXISTS `[database_name]`.`[event_name]` ON SCHEDULE EVERY 30 SECOND
+ DO
+ DELETE FROM `[database_name]`.`[table_name]` WHERE `create_on` < NOW()-INTERVAL 300 SECOND;

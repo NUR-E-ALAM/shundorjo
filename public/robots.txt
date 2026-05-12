@@ -1,0 +1,36 @@
+# robots.txt for https://www.shundorjo.com/
+# Last updated: October 2025
+# Purpose: Allow search engines to index website while blocking AI training bots.
+
+User-agent: *
+Allow: /
+
+# Block AI data-scraping bots
+User-agent: GPTBot
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: ClaudeBot
+Disallow: /
+User-agent: meta-externalagent
+Disallow: /
+User-agent: Amazonbot
+Disallow: /
+User-agent: Applebot-Extended
+Disallow: /
+User-agent: Bytespider
+Disallow: /
+
+# Block internal or sensitive directories
+Disallow: /admin/
+Disallow: /login/
+Disallow: /register/
+Disallow: /cart/
+Disallow: /checkout/
+
+# Sitemap for better indexing
+Sitemap: https://www.shundorjo.com/sitemap.xml
+Sitemap: https://www.shundorjo.com/public/sitemap.xml
+Sitemap: https://www.shundorjo.com/public/sitemap1.xml

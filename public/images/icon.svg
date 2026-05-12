@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="16px" viewBox="0 0 18 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/favorite_border_24px copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.75,0.5 C11.3,0.5 9.90833333,1.175 9,2.24166667 C8.09166667,1.175 6.7,0.5 5.25,0.5 C2.68333333,0.5 0.666666667,2.51666667 0.666666667,5.08333333 C0.666666667,8.23333333 3.5,10.8 7.79166667,14.7 L9,15.7916667 L10.2083333,14.6916667 C14.5,10.8 17.3333333,8.23333333 17.3333333,5.08333333 C17.3333333,2.51666667 15.3166667,0.5 12.75,0.5 Z M9.08333333,13.4583333 L9,13.5416667 L8.91666667,13.4583333 C4.95,9.86666667 2.33333333,7.49166667 2.33333333,5.08333333 C2.33333333,3.41666667 3.58333333,2.16666667 5.25,2.16666667 C6.53333333,2.16666667 7.78333333,2.99166667 8.225,4.13333333 L9.78333333,4.13333333 C10.2166667,2.99166667 11.4666667,2.16666667 12.75,2.16666667 C14.4166667,2.16666667 15.6666667,3.41666667 15.6666667,5.08333333 C15.6666667,7.49166667 13.05,9.86666667 9.08333333,13.4583333 Z" id="path-1"/>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.7">
+        <g id="home" transform="translate(-286.000000, -2911.000000)">
+            <g id="best-sellers" transform="translate(115.000000, 2614.000000)">
+                <g id="Group-19" transform="translate(0.000000, 57.000000)">
+                    <g id="Group-22" transform="translate(20.000000, 238.000000)">
+                        <g id="icon/action/favorite_border_24px-copy" transform="translate(151.000000, 2.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"/>
+                            </mask>
+                            <g id="icon/action/favorite_border_24px" fill-rule="nonzero"/>
+                            <g id="Color-/-Black-/-Inactive" mask="url(#mask-2)" fill="#275293">
+                                <g transform="translate(-1.000000, -2.000000)" id="Rectangle">
+                                    <rect x="0" y="0" width="20.0396825" height="20.0396825"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
